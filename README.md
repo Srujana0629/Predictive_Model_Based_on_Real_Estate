@@ -5,7 +5,8 @@ The  primary  objective  of  this  project  is  to  develop  a  predictive  regr
 
 ## Dataset Overview 
 
-## Link :  https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset 
+# Link : 
+https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset 
 The  dataset  is  collected  from  Kaggle  holding  10,000  instances  with  12  variables.  The data  type  contains  integer,  object  &  float.  The  explanations  of  the  variables  are  stated below- 
 
 ## Features: 
@@ -35,7 +36,7 @@ The  Folium  map  displays  the  average  sales  prices  of  properties  across 
 
 In  today's  dynamic  real  estate  market,  understanding  housing  sale  prices  is  essential  for buyers,  sellers,  and  investors  alike.  Our  interactive  dashboard  offers  a  comprehensive analysis  of  housing sale  prices,  providing  valuable  insights  to  guide  your decision-making  process.  Through  this  dashboard,  users  can  explore  various  aspects  of the  housing  market,  including  trends  over  time, geographic  distribution,  and  factors influencing  pricing  fluctuations.  With  user-friendly  visualizations  and  intuitive  controls, navigating through the data has never been easier. Whether  you're  a  prospective  homebuyer  looking  for  the  perfect  property,  a  seller seeking  to  understand  market  trends,  or  an  investor  evaluating  potential  opportunities, this dashboard empowers with the knowledge needed to make informed decisions. 
 
-## Link : 
+# Link : 
 https://public.tableau.com/app/profile/srujana.guggilla/viz/RealEstatePropertyTransact 
 ionDashboard/SALEPRICEPREDICTIONS
 
