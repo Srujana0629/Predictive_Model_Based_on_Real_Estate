@@ -5,8 +5,7 @@ The  primary  objective  of  this  project  is  to  develop  a  predictive  regr
 
 ## Dataset Overview 
 
-### Link : 
-https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset 
+### Link : https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset 
 The  dataset  is  collected  from  Kaggle  holding  10,000  instances  with  12  variables.  The data  type  contains  integer,  object  &  float.  The  explanations  of  the  variables  are  stated below- 
 
 ## Features: 
