@@ -1,11 +1,12 @@
-# Predictive Model Based on Real_Estate
+# Predictive Model Based on Real Estate
 ## Problem Statement 
 
 The  primary  objective  of  this  project  is  to  develop  a  predictive  regression  model  that  can accurately forecast real estate sales prices based on a comprehensive set of predictors. By  leveraging  advanced  analytics  techniques  and  machine  learning  algorithms,  the regression  model  aims  to  provide  actionable  insights  to  stakeholders,  enabling  them  to make informed decisions and optimize their real estate transactions. 
 
 ## Dataset Overview 
 
-### Link : https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset 
+### Link : 
+https://www.kaggle.com/datasets/subhiarjaria09/real-estate-property-transactions-dataset 
 The  dataset  is  collected  from  Kaggle  holding  10,000  instances  with  12  variables.  The data  type  contains  integer,  object  &  float.  The  explanations  of  the  variables  are  stated below- 
 
 ## Features: 
